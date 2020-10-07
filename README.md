@@ -5,7 +5,7 @@ Lectures 2020 for Experis Academy | Kilometro Rosso
 ### How is structured the Repo
 
 - ``` docs/  ```   : 
-  - DL4CV_Experis2020.pdf or open here : https://drive.google.com/file/d/16_9lkm6yDmuRcOtlWyuYS79tr0ql0tKN/view?usp=sharing
+  - DL4CV_Experis2020.pdf
   - Papers
 - ``` day1/ ```   :  *Introduction to computer vision, VGG, Transfer Learning*
 - ``` day2/ ```   :  *Residual Learning, Advance Tranfer Learning, Pruning*
