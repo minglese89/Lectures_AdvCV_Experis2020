@@ -9,6 +9,7 @@ Lectures 2020 for Experis Academy | Kilometro Rosso
   - Papers
 - ``` day1/ ```   :  *Introduction to computer vision, VGG, Transfer Learning*
 - ``` day2/ ```   :  *Residual Learning, Advance Tranfer Learning, Pruning*
+- ``` extra/ ```   :  *Add some extra material to be fixed!! : Unsupervised on CV task!*  
 - ``` exam/ ```   :  *Surprise!*  
 
 -----------------------------------------
