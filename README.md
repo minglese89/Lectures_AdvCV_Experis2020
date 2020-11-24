@@ -1,6 +1,8 @@
 # Lectures Advance ML for Computer Vision Experis Academy
 Lectures 2020 for Experis Academy | Kilometro Rosso
 
+ciao belli!
+
 -----------------------------------------
 ### How is structured the Repo
 
